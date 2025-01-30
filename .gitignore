@@ -1,0 +1,7 @@
+.pio
+lib
+include
+test
+.idea
+env.cpp
+*.html
